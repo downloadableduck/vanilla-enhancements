@@ -1,0 +1,6 @@
+{
+  "parent": "vanilla-enhancements:item/nose",
+  "textures": {
+    "layer0": "vanilla-enhancements:item/villager_nose"
+  }
+}
