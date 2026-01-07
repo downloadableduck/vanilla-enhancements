@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#E#",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:breeze_rod",
+        "E": "minecraft:egg"
+    },
+    "result": {
+        "id": "minecraft:breeze_spawn_egg",
+        "count": 1
+    }
+}

@@ -2,7 +2,13 @@
   "layers": {
     "humanoid": [
       {
-        "texture": "minecraft:armor_main"
+        "model": "vanilla-enhancements:item/nose",
+        "texture": "vanilla-enhancements:villager_nose"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "vanilla-enhancements:armor_main"
       }
     ]
   }

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "/S/",
+        "S/ ",
+        "/ /"
+    ],
+    "key": {
+        "/": "minecraft:stick",
+        "S": "minecraft:string"
+    },
+    "result": {
+        "id": "minecraft:crossbow",
+        "count": 1
+    }
+}

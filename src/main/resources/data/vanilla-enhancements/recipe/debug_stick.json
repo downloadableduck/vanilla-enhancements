@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:stick",
+        "minecraft:enchanting_table"
+    ],
+    "result": {
+        "id": "minecraft:debug_stick",
+        "count": 1
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#E#",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:clay_ball",
+        "E": "minecraft:egg"
+    },
+    "result": {
+        "id": "minecraft:axolotl_spawn_egg",
+        "count": 1
+    }
+}

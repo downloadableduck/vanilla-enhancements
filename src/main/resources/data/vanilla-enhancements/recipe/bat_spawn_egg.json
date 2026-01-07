@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#E#",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:charcoal",
+        "E": "minecraft:egg"
+    },
+    "result": {
+        "id": "minecraft:bat_spawn_egg",
+        "count": 1
+    }
+}

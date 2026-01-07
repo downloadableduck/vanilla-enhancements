@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "nin",
+        "i i",
+        "nin"
+    ],
+    "key": {
+        "n": "minecraft:netherite_ingot",
+        "i": "minecraft:iron_ingot"
+    },
+    "result": {
+        "id": "minecraft:spawner",
+        "count": 1
+    }
+}

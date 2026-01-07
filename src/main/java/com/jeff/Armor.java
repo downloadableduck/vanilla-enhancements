@@ -1,10 +1,8 @@
 package com.jeff;
 
-import net.minecraft.core.Holder;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.resources.Identifier;
 import net.minecraft.resources.ResourceKey;
-import net.minecraft.sounds.SoundEvent;
 import net.minecraft.sounds.SoundEvents;
 import net.minecraft.tags.TagKey;
 import net.minecraft.world.item.Item;
@@ -19,7 +17,7 @@ import java.util.Map;
 public class Armor {
 
     public static final int BASE_DURABILITY = 999999999;
-    public static final ResourceKey<@NotNull EquipmentAsset> VILLAGER_NOSE_MATERIAL_KEY = ResourceKey.create(EquipmentAssets.ROOT_ID, Identifier.fromNamespaceAndPath(VanillaEnhancements.MOD_ID, "nose"));
+    public static final ResourceKey<@NotNull EquipmentAsset> VILLAGER_NOSE_MATERIAL_KEY = ResourceKey.create(EquipmentAssets.ROOT_ID, Identifier.fromNamespaceAndPath(VanillaEnhancements.MOD_ID, "villager_nose"));
     public static final TagKey<@NotNull Item> REPAIRS_VILLAGER_NOSE = TagKey.create(BuiltInRegistries.ITEM.key(), Identifier.fromNamespaceAndPath(VanillaEnhancements.MOD_ID, "repairs_villager_nose"));
 
     public static final ArmorMaterial INSTANCE = new ArmorMaterial(
